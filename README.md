@@ -1,92 +1,119 @@
-<div align="left">
+<div align="center">
 
-<img align="right" src="./img.png" width="250" hspace="15" alt="Neraj Lal">
+# Hey, I'm Roopesh 👋
 
-<h1>Hey there, I'm Neraj Lal 👋</h1>
+### B.Tech CSE Student • Web Developer • Builder • Tech Enthusiast
 
-<a href="https://github.com/nerajlal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
-</a>
+Building things, breaking things, and learning how everything works.
 
-<p>
-  <a href="https://nerajlal.gecnoguru.com/">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
-  </a>
-  <a href="https://github.com/nerajlal">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/nerajlal/">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/techbyneraj/">
-    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/nerajlal?tab=followers">
-    <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/nerajlal?tab=repositories">
-    <img src="https://img.shields.io/github/stars/nerajlal?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nerajlal&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
-</p>
-
-<br clear="both">
+[![GitHub](https://img.shields.io/badge/GitHub-buildwithroopesh-181717?style=for-the-badge&logo=github)](https://github.com/buildwithroopesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel)](https://roopesh-portfolio-xi.vercel.app)
 
 </div>
 
 ---
 
-<table align="center" width="100%">
-<tr>
-<td width="65%" valign="top">
-
 ## 👨‍💻 About Me
 
-I'm **Neraj Lal**, a Full Stack Developer focused on building modern web applications, Shopify apps, SaaS products, and AI-powered solutions.
+I'm **Roopesh**, a Computer Science & Engineering student who loves turning ideas into working projects.
 
-I enjoy taking an idea from **concept → architecture → development → deployment → production**.
+- 🎓 B.Tech Computer Science & Engineering
+- 💻 Currently learning and building with **C, Java, JavaScript & TypeScript**
+- 🌐 Interested in **Web Development**
+- 🤖 Exploring **AI, automation & robotics**
+- 🎮 Gamer and tech enthusiast
+- 🎬 Interested in video editing, VFX and creative technology
+- 🚀 Always working on something new
 
-- 🚀 Full Stack Web Development
-- 🛍️ Shopify App Development
-- 🤖 AI & LLM Integrations
-- 🏗️ SaaS & Multi-Tenant Applications
-- ☁️ Cloud Deployment & Server Management
-- ⚡ Laravel, PHP, JavaScript & React
-- 🐍 Exploring Python & Django
+> *"Jack of all trades, master of none — but often better than a master of one."*
 
-> **Build things. Break things. Learn things. Ship things.**
+---
 
-</td>
-<td width="35%" align="center" valign="middle">
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,javascript,typescript,react,nextjs,nodejs,shopify,mysql,redis,docker,git,github,linux,nginx&perline=5&theme=dark" width="100%" alt="Tech stack">
+### Languages
 
-</td>
-</tr>
-</table>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Web Development
 
-<br><br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 What I'm Working On
+
+- 🌐 Building modern web applications
+- 🤖 Exploring AI-powered applications
+- 🚗 Learning robotics and autonomous systems
+- 🧠 Improving my programming fundamentals
+- 🎨 Experimenting with creative editing and VFX
+- 🎮 Exploring game development
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-## 🐍 Contribution Snake
+<img src="https://github-readme-stats.vercel.app/api?username=buildwithroopesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithroopesh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
-<br>
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
-<br>
-<sub><b>© Neraj Lal</b> · Full Stack Developer · Shopify · AI · SaaS</sub>
+
+![Contribution Snake](https://raw.githubusercontent.com/buildwithroopesh/buildwithroopesh/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=buildwithroopesh&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-buildwithroopesh-181717?style=for-the-badge&logo=github)](https://github.com/buildwithroopesh)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-6366f1?style=for-the-badge&logo=vercel)](https://roopesh-portfolio-xi.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting!
+
+⭐ If you find something interesting here, feel free to star it.
+
 </div>
